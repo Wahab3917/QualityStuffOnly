@@ -1,6 +1,8 @@
 # E-Commerce Website
 https://qualitystuffonly.shop/
 
+![](https://github.com/Wahab3917/QualityStuffOnly/blob/main/qualitystuffonly.png)
+
 ## Description: 
 An E-commerce website of a clothing brand.
 
